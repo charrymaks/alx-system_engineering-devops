@@ -1,0 +1,1 @@
+#!/bin/bashchown -hR vincent:staff ./
